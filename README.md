@@ -1,4 +1,4 @@
-## Hi there 👋
+## yo
 
 <h1 align="center">Hey, I'm Malak</h1>
 <h3 align="center">cool girl in Electronics and Communications Engineering and Anthropology</h3>
