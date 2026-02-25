@@ -1,7 +1,7 @@
-## yo
 
-<h1 align="center">Hey, I'm Malak</h1>
-<h3 align="center">cool girl in Electronics and Communications Engineering and Anthropology</h3>
+
+<h1 align="center">yo! i'm malak</h1>
+<h3 align="center">multidiciplinary cool girl in electronics and communications engineering and anthropology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakmekky&label=Profile%20views&color=0e75b6&style=flat" alt="malakmekky" /> </p>
 
