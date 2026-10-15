@@ -7,7 +7,7 @@
 
 - Currently working on [Gas Leakage sensor](https://github.com/malakmekky/reverseEngineeringGasLeak)
 
-- 🌱 I’m currently learning **Microcontroller System design and Analog IC design**
+- 🌱 I’m currently learning **Embedded system design and Analog IC design**
 
 - 📫 How to reach me **malak.mekky@gmail.com**
 
